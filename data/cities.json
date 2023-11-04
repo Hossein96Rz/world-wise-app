@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "cityName": "Pinto",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-10-24T15:46:31.388Z",
+      "notes": "",
+      "position": {
+        "lat": "40.27952566881291",
+        "lng": "-3.6474609375000004"
+      },
+      "id": 1
+    },
+    {
+      "cityName": "Santisteban del Puerto",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2023-10-24T15:58:31.211Z",
+      "notes": "fgdsfg",
+      "position": {
+        "lat": "38.20365531807151",
+        "lng": "-3.27392578125"
+      },
+      "id": 2
+    }
+  ]
+}
