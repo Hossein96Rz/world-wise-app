@@ -11,9 +11,9 @@ This project is a web application that allows you to track your footsteps around
 
 ## Stacks
 
-*React - Frontend framework
-*Vite - Build tool
-*CSS Modules - Styling
-*Context API - State management
-*React Router - Routing & navigation
-*React Leaflet - For Maps
+- React - Frontend framework
+- Vite - Build tool
+- CSS Modules - Styling
+- Context API - State management
+- React Router - Routing & navigation
+- React Leaflet - For Maps
