@@ -4,10 +4,10 @@ This project is a web application that allows you to track your footsteps around
 
 ## Features
 
-*Map of the world with markers for visited locations
-*Personalized dashboard to track progress and view notes
-*Ability to add notes to each visited location
-*Search function to find reached locations
+- Map of the world with markers for visited locations
+- Personalized dashboard to track progress and view notes
+- Ability to add notes to each visited location
+- Search function to find reached locations
 
 ## Stacks
 
