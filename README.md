@@ -1,6 +1,7 @@
 # World Wise - World Map
 
 This project is a web application that allows you to track your footsteps around the world and keep a record of all the cities or countries you have visited. With World Wise, you can add notes to each visited location and share your experiences with friends.
+[Click here to redirect to deployed webapp (to login use username: "jack@example.com" and password: "qwerty"](https://hossein-world-wise.vercel.app/)
 
 ## Features
 
